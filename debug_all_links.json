@@ -1,0 +1,23 @@
+[
+  "http://forgotu.vistage.com/",
+  "http://forgotp.vistage.com/",
+  "https://myvistage.com/wp-login.php?wpe-login=true&action=social_login_authenticate&provider=Apple&mode=login",
+  "https://myvistage.com/wp-login.php?wpe-login=true&action=social_login_authenticate&provider=Google&mode=login",
+  "https://myvistage.com/wp-login.php?wpe-login=true&action=social_login_authenticate&provider=LinkedIn&mode=login",
+  "https://myvistage.com/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1#",
+  "https://chairapp.vistage.com/",
+  "https://www.vistage.com/about/privacy-policy/",
+  "https://www.vistage.com/about/terms-of-use/",
+  "https://www.vistage.com/",
+  "https://myvistage.com/es/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1",
+  "https://myvistage.com/zh/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1",
+  "https://myvistage.com/ar/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1",
+  "https://myvistage.com/nl/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1",
+  "https://myvistage.com/fr/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1",
+  "https://myvistage.com/de/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1",
+  "https://myvistage.com/it/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1",
+  "https://myvistage.com/pt/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1",
+  "https://myvistage.com/ms/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1",
+  "https://myvistage.com/he/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1",
+  "https://myvistage.com/vi/?redirect_to=https%3A%2F%2Fmyvistage.com%2Fpeople%2F%3Farea%3Dpeople%26full_profile%3D%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles%26solr_fq%255B0%255D%3Droles%3A%28member%29%26location_by%3Dexact%26distance%3D25%26distance_units%3Dmiles&reauth=1"
+]
